@@ -7,4 +7,4 @@
 
 - 🤝 I’m looking for help with **learning front-end, especially JavaScript.**
 
-- 📫 How to reach me **anuragkar970@gmail.com**
+- 📫 Reach me at **anuragkar970@gmail.com**
