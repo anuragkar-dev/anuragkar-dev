@@ -1,7 +1,7 @@
 <h3>I'm Anurag, a backend-focused developer specializing in Python and Python frameworks.</h3>
 
-- 🔭 I am currently working on a [Sentimental Analysis Tool.](https://github.com/maryeete/Senior-Project)
+- 🔭 I am currently working on a [Movie Discovery Web App.](https://github.com/anuragkar-dev/Movie-React-Project)
 
-- 🌱 I am currently learning **Django.**
+- 🌱 I am currently learning **React and Node.js.**
 
-- 📫 You can reach me at **anuragkar970@gmail.com.**
+- 📫 You can reach me at **anurag@anuragkar.dev**
