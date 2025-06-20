@@ -1,7 +1,3 @@
-<h3>I'm Anurag, a backend-focused developer specializing in Python and Python frameworks.</h3>
+<h3>I'm Anurag, a fixed income trader with expertise in Python.</h3>
 
-- 🔭 I am currently working on a [Movie Discovery Web App.](https://github.com/anuragkar-dev/Movie-React-Project)
-
-- 🌱 I am currently learning **React and Node.js.**
-
-- 📫 You can reach me at **anurag@anuragkar.dev**
+📫:&nbsp;&nbsp;anurag@anuragkar.dev
